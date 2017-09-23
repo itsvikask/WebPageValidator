@@ -1,12 +1,12 @@
-# WebPageValidator
+﻿# WebPageValidator
 Upload an Excel with the list of URL’s.
 Given a page URL, check for validity of
 	1. HTML of that page
-	2. CSS in the page/of the links present 	in the page. 
+	2. CSS in the page/of the links present in the page. 
 	3. JS present in the page/of the links 	present in the page. 
 	4. Check for broken links. 
 
-JAR Dependencies---
+JAR Dependencies----
 asm-3.1.jar
 jersey-server-1.8.jar
 jersey-core-1.8.jar
